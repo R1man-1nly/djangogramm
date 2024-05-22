@@ -1,0 +1,6 @@
+req.txt
+client_secret_543728054549-41de0fo4fnl80sroi5vuch8h5h3oo33a.apps.googleusercontent.com.json
+app.yaml
+.env.temptate
+.gcloudignore
+db.sqlite3
